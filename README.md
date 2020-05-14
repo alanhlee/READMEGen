@@ -1,18 +1,19 @@
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/alanhlee/READMEGen/LICENSE)
-# README.md Generator
+# README Generator
 
-###### Will create a readme file with prompted questions in from node
+###### will easily create a README for a repository from node prompted questions
 
-## Title/APP info/Github Profile/Email
+### Table of Contents: Title/Application Info/Github Profile Pic/Email
 
-## How to install: HTTPS link git clone
+### How to install: HTTPS link git clone into desired file location
 
-###### Program Usage:To easily create README.md files for repos
-###### -©
-###### Alan Lee
-###### none
-###### none
+###### Program Usage: Creating README.md for repos
+###### Licenses: -©
+###### Contributors: Alan Lee
+###### Tests to be run on app: none
+###### Questions: none
 
 ![Github Profile Picture](https://avatars0.githubusercontent.com/u/55564982?v=4)
+
 Email: null

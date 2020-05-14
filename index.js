@@ -68,17 +68,18 @@ prompt([
 
 ###### ${info.description}
 
-## ${info.toc}
+### Table of Contents: ${info.toc}
 
-## How to install: ${info.installation}
+### How to install: ${info.installation}
 
-###### Program Usage:${info.usage}
-###### ${info.license}©
-###### ${info.contributors}
-###### ${info.tests}
-###### ${info.questions}
+###### Program Usage: ${info.usage}
+###### Licenses: ${info.license}©
+###### Contributors: ${info.contributors}
+###### Tests to be run on app: ${info.tests}
+###### Questions: ${info.questions}
 
 ![Github Profile Picture](${githubInfo.data.avatar_url})
+
 Email: ${githubInfo.data.email}
 `
 )})
