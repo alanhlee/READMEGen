@@ -1,5 +1,5 @@
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/alanhlee/READMEGen/LICENSE)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/alanhlee/READMEGen/blob/master/LICENSE)
 # README Generator
 
 ###### will easily create a README for a repository from node prompted questions
