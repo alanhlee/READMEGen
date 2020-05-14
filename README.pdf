@@ -2,13 +2,13 @@
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/alanhlee/READMEGen/blob/master/LICENSE)
 # README Generator
 
-###### Will create a README file for desired repository
+###### Will create a README for desired repository
 
-### Table of Contents: Title/Description/Application Data/Github Avator/Email
+### Table of Contents: Title/Description/Application Info/Github Avatar/Email
 
 ### How to install: HTTPS git cloning to desired directory
 
-###### Program Usage: Creating README easily through node prompts
+###### Program Usage: Creating a README easily through node prompts in the console
 ###### Licenses: -©
 ###### Contributors: Alan Lee
 ###### Tests to be run on app: none

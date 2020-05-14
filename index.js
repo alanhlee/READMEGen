@@ -12,6 +12,11 @@ prompt([
   },
   {
     type: 'input',
+    name: 'repo',
+    message: 'What is the name of the repository?'
+  },
+  {
+    type: 'input',
     name: 'title',
     message: 'Title of your app?',
   },
@@ -60,8 +65,10 @@ prompt([
     axios.get(`https://api.github.com/users/${info.username}`)
       .then((githubInfo) => {
         // console.log(githubInfo.data)
+
         
-        writeFilePromise('README.md',
+
+        writeFilePromise('README.pdf',
 `
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/alanhlee/READMEGen/blob/master/LICENSE)
 # ${info.title}
