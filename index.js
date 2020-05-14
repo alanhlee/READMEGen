@@ -63,7 +63,7 @@ prompt([
         
         writeFilePromise('README.md',
 `
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/alanhlee/READMEGen/LICENSE)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/alanhlee/READMEGen/blob/master/LICENSE)
 # ${info.title}
 
 ###### ${info.description}
